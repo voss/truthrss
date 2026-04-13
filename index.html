@@ -133,16 +133,32 @@
                 const title = items[i].querySelector('title')?.textContent || 'Untitled';
                 const description = items[i].querySelector('description')?.textContent || '';
                 const link = items[i].querySelector('link')?.textContent || '#';
-                const pubDate = items[i].querySelector('pubDate')?.textContent || '';
+                const pubDateStr = items[i].querySelector('pubDate')?.textContent || '';
 
                 // Clean up date a bit
-                const cleanDate = pubDate.replace(/ \+\d{4}$/, ''); 
+                let dateDisplay = pubDateStr.replace(/ \+\d{4}$/, ''); 
+                
+                // Add CET conversion
+                try {
+                    const dateObj = new Date(pubDateStr);
+                    if (!isNaN(dateObj.getTime())) {
+                        const cetTime = dateObj.toLocaleTimeString('en-GB', {
+                            timeZone: 'Europe/Berlin',
+                            hour: '2-digit',
+                            minute: '2-digit',
+                            hour12: false
+                        });
+                        dateDisplay += ` (${cetTime} CET)`;
+                    }
+                } catch (e) {
+                    console.error("Error converting date", e);
+                }
 
                 html += `
                     <div class="post">
                         <div class="post-header">
                             <h2 class="post-title">${title}</h2>
-                            <span class="post-date">${cleanDate}</span>
+                            <span class="post-date">${dateDisplay}</span>
                         </div>
                         <div class="post-content">${description}</div>
                         <a href="${link}" target="_blank" class="post-link">Original Post →</a>
