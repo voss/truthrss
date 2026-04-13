@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trump's Truth Feed</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container {
+            max-width: 600px;
+            width: 100%;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h1 {
+            color: #1c1e21;
+            margin-bottom: 5px;
+        }
+        .last-updated {
+            color: #65676b;
+            font-size: 0.9em;
+        }
+        .post {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+            transition: transform 0.1s;
+        }
+        .post:hover {
+            background-color: #fafafa;
+        }
+        .post-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 12px;
+        }
+        .post-title {
+            font-weight: bold;
+            font-size: 1.1em;
+            color: #050505;
+            margin: 0;
+            flex: 1;
+            padding-right: 10px;
+        }
+        .post-date {
+            font-size: 0.8em;
+            color: #65676b;
+            white-space: nowrap;
+        }
+        .post-content {
+            font-size: 1em;
+            line-height: 1.5;
+            color: #1c1e21;
+            word-wrap: break-word;
+        }
+        .post-link {
+            display: inline-block;
+            margin-top: 15px;
+            color: #0066cc;
+            text-decoration: none;
+            font-size: 0.9em;
+            font-weight: 500;
+        }
+        .post-link:hover {
+            text-decoration: underline;
+        }
+        .error {
+            color: #d93025;
+            background: #fce8e6;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        #loading {
+            text-align: center;
+            color: #65676b;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Trump's Truth Feed</h1>
+        <div id="feed-meta" class="last-updated"></div>
+    </header>
+
+    <div id="loading">Loading posts...</div>
+    <div id="feed-container"></div>
+</div>
+
+<script>
+    async function loadFeed() {
+        const container = document.getElementById('feed-container');
+        const meta = document.getElementById('feed-meta');
+        const loading = document.getElementById('loading');
+
+        try {
+            // Fetch the local XML file
+            const response = await fetch('trumpstruth_feed.xml?t=' + new Date().getTime());
+            if (!response.ok) throw new Error('Could not find the RSS feed file.');
+            
+            const xmlText = await response.text();
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+
+            // Extract items
+            const items = xmlDoc.getElementsByTagName('item');
+            const lastBuildDate = xmlDoc.querySelector('lastBuildDate')?.textContent || 'Just now';
+            meta.innerText = 'Last checked: ' + lastBuildDate;
+
+            if (items.length === 0) {
+                container.innerHTML = '<div class="error">No posts found in the feed.</div>';
+                return;
+            }
+
+            let html = '';
+            for (let i = 0; i < items.length; i++) {
+                const title = items[i].querySelector('title')?.textContent || 'Untitled';
+                const description = items[i].querySelector('description')?.textContent || '';
+                const link = items[i].querySelector('link')?.textContent || '#';
+                const pubDate = items[i].querySelector('pubDate')?.textContent || '';
+
+                // Clean up date a bit
+                const cleanDate = pubDate.replace(/ \+\d{4}$/, ''); 
+
+                html += `
+                    <div class="post">
+                        <div class="post-header">
+                            <h2 class="post-title">${title}</h2>
+                            <span class="post-date">${cleanDate}</span>
+                        </div>
+                        <div class="post-content">${description}</div>
+                        <a href="${link}" target="_blank" class="post-link">Original Post →</a>
+                    </div>
+                `;
+            }
+
+            loading.style.display = 'none';
+            container.innerHTML = html;
+
+        } catch (err) {
+            loading.style.display = 'none';
+            container.innerHTML = `<div class="error">Error: ${err.message}<br><small>Make sure you are running this through a web server (e.g., python3 -m http.server).</small></div>`;
+        }
+    }
+
+    // Load on start
+    loadFeed();
+    // Auto-refresh every 5 minutes in the browser
+    setInterval(loadFeed, 300000);
+</script>
+
+</body>
+</html>
