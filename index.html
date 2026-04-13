@@ -135,20 +135,33 @@
                 const link = items[i].querySelector('link')?.textContent || '#';
                 const pubDateStr = items[i].querySelector('pubDate')?.textContent || '';
 
-                // Clean up date a bit
-                let dateDisplay = pubDateStr.replace(/ \+\d{4}$/, ''); 
+                let dateDisplay = pubDateStr;
                 
-                // Add CET conversion
                 try {
                     const dateObj = new Date(pubDateStr);
                     if (!isNaN(dateObj.getTime())) {
+                        // Main timestamp: Washington DC (ET)
+                        const etDisplay = dateObj.toLocaleString('en-GB', {
+                            timeZone: 'America/New_York',
+                            weekday: 'short',
+                            day: 'numeric',
+                            month: 'short',
+                            year: 'numeric',
+                            hour: '2-digit',
+                            minute: '2-digit',
+                            second: '2-digit',
+                            hour12: false
+                        });
+
+                        // Secondary timestamp: CET
                         const cetTime = dateObj.toLocaleTimeString('en-GB', {
                             timeZone: 'Europe/Berlin',
                             hour: '2-digit',
                             minute: '2-digit',
                             hour12: false
                         });
-                        dateDisplay += ` (${cetTime} CET)`;
+                        
+                        dateDisplay = `${etDisplay} (${cetTime} CET)`;
                     }
                 } catch (e) {
                     console.error("Error converting date", e);
