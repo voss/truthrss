@@ -91,13 +91,20 @@ def generate_rss():
         ET.SubElement(item, "description").text = description
         ET.SubElement(item, "title").text = (description[:77] + '...') if len(description) > 80 else description
 
+        # Use the internal archive link if available, otherwise fallback to external
+        status_url = status.get('data-status-url')
+        if status_url:
+            link = status_url.strip()
+        else:
+            header = status.find('div', class_='status__header')
+            link_tag = header.find('a', class_='status__external-link') if header else None
+            link = link_tag.get('href') if link_tag else base_url
+            
+        ET.SubElement(item, "link").text = link
+        ET.SubElement(item, "guid").text = link
+        
         header = status.find('div', class_='status__header')
         if header:
-            link_tag = header.find('a', class_='status__external-link')
-            link = link_tag.get('href') if link_tag else base_url
-            ET.SubElement(item, "link").text = link
-            ET.SubElement(item, "guid").text = link
-            
             header_text = header.get_text(separator=' ', strip=True)
             match = re.search(r'·\s*(.*?)\s*Original Post', header_text)
             date_str = match.group(1) if match else ""
