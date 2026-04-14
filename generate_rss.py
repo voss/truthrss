@@ -87,9 +87,22 @@ def generate_rss():
         item = ET.SubElement(channel, "item")
         
         body = status.find('div', class_='status__body')
-        description = body.get_text(separator=' ', strip=True) if body else ""
+        description = ""
+        if body:
+            # Try to get text content
+            content = body.find('div', class_='status__content')
+            description = content.get_text(separator=' ', strip=True) if content else ""
+            
+            # Check for images if text is empty or as additional info
+            attachments = body.find('div', class_='status__attachments')
+            if attachments and attachments.find('div', class_='status-attachment--image'):
+                if not description:
+                    description = "[Image Post]"
+                else:
+                    description += " [Image Attached]"
+
         ET.SubElement(item, "description").text = description
-        ET.SubElement(item, "title").text = (description[:77] + '...') if len(description) > 80 else description
+        ET.SubElement(item, "title").text = (description[:77] + '...') if len(description) > 80 else (description if description else "Untitled Post")
 
         # Use the internal archive link if available, otherwise fallback to external
         status_url = status.get('data-status-url')
