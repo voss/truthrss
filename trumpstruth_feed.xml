@@ -3,8 +3,22 @@
   <channel>
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
-    <description>Truth Social Archive - Latest 56 Posts</description>
-    <lastBuildDate>Sat, 18 Apr 2026 11:29:12 -0000</lastBuildDate>
+    <description>Truth Social Archive - Latest 57 Posts</description>
+    <lastBuildDate>Sat, 18 Apr 2026 11:58:29 -0000</lastBuildDate>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/37878</link>
+      <guid>https://trumpstruth.org/statuses/37878</guid>
+      <pubDate>Sat, 18 Apr 2026 07:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://truthsocial.com/@realDonaldTrump/116425396492356069</link>
+      <guid>https://truthsocial.com/@realDonaldTrump/116425396492356069</guid>
+      <pubDate>Sat, 18 Apr 2026 07:09:00 +0000</pubDate>
+    </item>
     <item>
       <description/>
       <title>Untitled Post</title>
@@ -389,13 +403,6 @@
       <link>https://trumpstruth.org/statuses/37829</link>
       <guid>https://trumpstruth.org/statuses/37829</guid>
       <pubDate>Fri, 17 Apr 2026 09:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>IRAN HAS JUST ANNOUNCED THAT THE STRAIT OF IRAN IS FULLY OPEN AND READY FOR FULL PASSAGE. THANK YOU!</description>
-      <title>IRAN HAS JUST ANNOUNCED THAT THE STRAIT OF IRAN IS FULLY OPEN AND READY FOR F...</title>
-      <link>https://trumpstruth.org/statuses/37828</link>
-      <guid>https://trumpstruth.org/statuses/37828</guid>
-      <pubDate>Fri, 17 Apr 2026 09:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
