@@ -3,8 +3,15 @@
   <channel>
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
-    <description>Truth Social Archive - Latest 60 Posts</description>
-    <lastBuildDate>Sun, 19 Apr 2026 23:29:19 -0000</lastBuildDate>
+    <description>Truth Social Archive - Latest 59 Posts</description>
+    <lastBuildDate>Mon, 20 Apr 2026 00:02:54 -0000</lastBuildDate>
+    <item>
+      <description>https:// x.com/americafirsst/status/204 5609944037077104?s=46 [Image Attached]</description>
+      <title>https:// x.com/americafirsst/status/204 5609944037077104?s=46 [Image Attached]</title>
+      <link>https://trumpstruth.org/statuses/37931</link>
+      <guid>https://trumpstruth.org/statuses/37931</guid>
+      <pubDate>Sun, 19 Apr 2026 19:30:00 +0000</pubDate>
+    </item>
     <item>
       <description>How the White House drew a new battle plan to take on the Washington press corps: https://www. washingtontimes.com/news/2025/ dec/26/white-house-drew-new-battle-plan-take-washington-press-corps/</description>
       <title>How the White House drew a new battle plan to take on the Washington press co...</title>
@@ -410,20 +417,6 @@
       <link>https://trumpstruth.org/statuses/37881</link>
       <guid>https://trumpstruth.org/statuses/37881</guid>
       <pubDate>Sat, 18 Apr 2026 19:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/37882</link>
-      <guid>https://trumpstruth.org/statuses/37882</guid>
-      <pubDate>Sat, 18 Apr 2026 19:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://truthsocial.com/@realDonaldTrump/116428347307445462</link>
-      <guid>https://truthsocial.com/@realDonaldTrump/116428347307445462</guid>
-      <pubDate>Sat, 18 Apr 2026 19:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
