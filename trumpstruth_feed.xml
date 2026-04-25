@@ -4,7 +4,14 @@
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
     <description>Truth Social Archive - Latest 60 Posts</description>
-    <lastBuildDate>Sat, 25 Apr 2026 13:10:27 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 14:11:52 -0000</lastBuildDate>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/38051</link>
+      <guid>https://trumpstruth.org/statuses/38051</guid>
+      <pubDate>Sat, 25 Apr 2026 09:20:00 +0000</pubDate>
+    </item>
     <item>
       <description>[Image Post]</description>
       <title>[Image Post]</title>
@@ -417,13 +424,6 @@
       <link>https://trumpstruth.org/statuses/38001</link>
       <guid>https://trumpstruth.org/statuses/38001</guid>
       <pubDate>Wed, 22 Apr 2026 22:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>Federal government must step up for election integrity: https://www. washingtontimes.com/news/2026/ jan/27/federal-government-must-step-election-integrity/</description>
-      <title>Federal government must step up for election integrity: https://www. washingt...</title>
-      <link>https://trumpstruth.org/statuses/38002</link>
-      <guid>https://trumpstruth.org/statuses/38002</guid>
-      <pubDate>Wed, 22 Apr 2026 22:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
