@@ -3,8 +3,22 @@
   <channel>
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
-    <description>Truth Social Archive - Latest 57 Posts</description>
-    <lastBuildDate>Thu, 14 May 2026 00:01:29 -0000</lastBuildDate>
+    <description>Truth Social Archive - Latest 56 Posts</description>
+    <lastBuildDate>Thu, 14 May 2026 04:26:35 -0000</lastBuildDate>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/38451</link>
+      <guid>https://trumpstruth.org/statuses/38451</guid>
+      <pubDate>Wed, 13 May 2026 22:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/38452</link>
+      <guid>https://trumpstruth.org/statuses/38452</guid>
+      <pubDate>Wed, 13 May 2026 22:27:00 +0000</pubDate>
+    </item>
     <item>
       <description/>
       <title>Untitled Post</title>
@@ -255,7 +269,7 @@
       <title>The Failing New York Times, which is one of the worst newspapers anywhere in ...</title>
       <link>https://trumpstruth.org/statuses/38415</link>
       <guid>https://trumpstruth.org/statuses/38415</guid>
-      <pubDate>Thu, 14 May 2026 00:01:29 -0000</pubDate>
+      <pubDate>Thu, 14 May 2026 04:26:35 -0000</pubDate>
     </item>
     <item>
       <description>[Image Post]</description>
@@ -382,27 +396,6 @@
       <link>https://trumpstruth.org/statuses/38401</link>
       <guid>https://trumpstruth.org/statuses/38401</guid>
       <pubDate>Mon, 11 May 2026 22:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/38402</link>
-      <guid>https://trumpstruth.org/statuses/38402</guid>
-      <pubDate>Mon, 11 May 2026 22:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://truthsocial.com/@realDonaldTrump/116559318573932949</link>
-      <guid>https://truthsocial.com/@realDonaldTrump/116559318573932949</guid>
-      <pubDate>Mon, 11 May 2026 22:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://trumpstruth.org/statuses/38403</link>
-      <guid>https://trumpstruth.org/statuses/38403</guid>
-      <pubDate>Mon, 11 May 2026 22:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
