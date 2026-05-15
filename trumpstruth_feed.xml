@@ -3,8 +3,22 @@
   <channel>
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
-    <description>Truth Social Archive - Latest 52 Posts</description>
-    <lastBuildDate>Fri, 15 May 2026 20:38:07 -0000</lastBuildDate>
+    <description>Truth Social Archive - Latest 51 Posts</description>
+    <lastBuildDate>Fri, 15 May 2026 21:52:15 -0000</lastBuildDate>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/38463</link>
+      <guid>https://trumpstruth.org/statuses/38463</guid>
+      <pubDate>Fri, 15 May 2026 17:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <description>FREE TINA!</description>
+      <title>FREE TINA!</title>
+      <link>https://trumpstruth.org/statuses/38462</link>
+      <guid>https://trumpstruth.org/statuses/38462</guid>
+      <pubDate>Fri, 15 May 2026 17:03:00 +0000</pubDate>
+    </item>
     <item>
       <description>Henry Clay and the architecture of American strength: https://www. washingtontimes.com/news/2026/ apr/14/henry-clay-architecture-american-strength/</description>
       <title>Henry Clay and the architecture of American strength: https://www. washington...</title>
@@ -332,7 +346,7 @@
       <title>The Failing New York Times, which is one of the worst newspapers anywhere in ...</title>
       <link>https://trumpstruth.org/statuses/38415</link>
       <guid>https://trumpstruth.org/statuses/38415</guid>
-      <pubDate>Fri, 15 May 2026 20:38:07 -0000</pubDate>
+      <pubDate>Fri, 15 May 2026 21:52:15 -0000</pubDate>
     </item>
     <item>
       <description>[Image Post]</description>
@@ -347,27 +361,6 @@
       <link>https://truthsocial.com/@realDonaldTrump/116559478528436720</link>
       <guid>https://truthsocial.com/@realDonaldTrump/116559478528436720</guid>
       <pubDate>Mon, 11 May 2026 23:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://trumpstruth.org/statuses/38414</link>
-      <guid>https://trumpstruth.org/statuses/38414</guid>
-      <pubDate>Mon, 11 May 2026 23:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/38409</link>
-      <guid>https://trumpstruth.org/statuses/38409</guid>
-      <pubDate>Mon, 11 May 2026 23:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://truthsocial.com/@realDonaldTrump/116559381063637126</link>
-      <guid>https://truthsocial.com/@realDonaldTrump/116559381063637126</guid>
-      <pubDate>Mon, 11 May 2026 23:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
