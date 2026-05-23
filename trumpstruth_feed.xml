@@ -4,7 +4,21 @@
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
     <description>Truth Social Archive - Latest 53 Posts</description>
-    <lastBuildDate>Sat, 23 May 2026 11:39:48 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 13:06:12 -0000</lastBuildDate>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/38719</link>
+      <guid>https://trumpstruth.org/statuses/38719</guid>
+      <pubDate>Sat, 23 May 2026 08:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/38720</link>
+      <guid>https://trumpstruth.org/statuses/38720</guid>
+      <pubDate>Sat, 23 May 2026 08:59:00 +0000</pubDate>
+    </item>
     <item>
       <description/>
       <title>Untitled Post</title>
@@ -360,20 +374,6 @@
       <title>[Image Post]</title>
       <link>https://trumpstruth.org/statuses/38664</link>
       <guid>https://trumpstruth.org/statuses/38664</guid>
-      <pubDate>Wed, 20 May 2026 06:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/38665</link>
-      <guid>https://trumpstruth.org/statuses/38665</guid>
-      <pubDate>Wed, 20 May 2026 06:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/38666</link>
-      <guid>https://trumpstruth.org/statuses/38666</guid>
       <pubDate>Wed, 20 May 2026 06:24:00 +0000</pubDate>
     </item>
   </channel>
