@@ -3,8 +3,29 @@
   <channel>
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
-    <description>Truth Social Archive - Latest 54 Posts</description>
-    <lastBuildDate>Tue, 09 Jun 2026 02:26:39 -0000</lastBuildDate>
+    <description>Truth Social Archive - Latest 52 Posts</description>
+    <lastBuildDate>Tue, 09 Jun 2026 06:31:28 -0000</lastBuildDate>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/39167</link>
+      <guid>https://trumpstruth.org/statuses/39167</guid>
+      <pubDate>Tue, 09 Jun 2026 02:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://truthsocial.com/@realDonaldTrump/116718662947146337</link>
+      <guid>https://truthsocial.com/@realDonaldTrump/116718662947146337</guid>
+      <pubDate>Tue, 09 Jun 2026 02:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/39168</link>
+      <guid>https://trumpstruth.org/statuses/39168</guid>
+      <pubDate>Tue, 09 Jun 2026 02:10:00 +0000</pubDate>
+    </item>
     <item>
       <description>[Image Post]</description>
       <title>[Image Post]</title>
@@ -347,41 +368,6 @@
       <link>https://trumpstruth.org/statuses/39118</link>
       <guid>https://trumpstruth.org/statuses/39118</guid>
       <pubDate>Fri, 05 Jun 2026 19:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/39116</link>
-      <guid>https://trumpstruth.org/statuses/39116</guid>
-      <pubDate>Fri, 05 Jun 2026 14:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://truthsocial.com/@realDonaldTrump/116698960799135985</link>
-      <guid>https://truthsocial.com/@realDonaldTrump/116698960799135985</guid>
-      <pubDate>Fri, 05 Jun 2026 14:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://truthsocial.com/@realDonaldTrump/116698954650603382</link>
-      <guid>https://truthsocial.com/@realDonaldTrump/116698954650603382</guid>
-      <pubDate>Fri, 05 Jun 2026 14:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/39117</link>
-      <guid>https://trumpstruth.org/statuses/39117</guid>
-      <pubDate>Fri, 05 Jun 2026 14:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://truthsocial.com/@realDonaldTrump/116698954650603382</link>
-      <guid>https://truthsocial.com/@realDonaldTrump/116698954650603382</guid>
-      <pubDate>Fri, 05 Jun 2026 14:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
