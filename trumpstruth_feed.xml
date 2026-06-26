@@ -4,7 +4,14 @@
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
     <description>Truth Social Archive - Latest 56 Posts</description>
-    <lastBuildDate>Fri, 26 Jun 2026 02:36:23 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 06:45:47 -0000</lastBuildDate>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/39540</link>
+      <guid>https://trumpstruth.org/statuses/39540</guid>
+      <pubDate>Thu, 25 Jun 2026 23:19:00 +0000</pubDate>
+    </item>
     <item>
       <description>[Image Post]</description>
       <title>[Image Post]</title>
@@ -27,8 +34,8 @@
       <pubDate>Thu, 25 Jun 2026 22:28:00 +0000</pubDate>
     </item>
     <item>
-      <description/>
-      <title>Untitled Post</title>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
       <link>https://trumpstruth.org/statuses/39534</link>
       <guid>https://trumpstruth.org/statuses/39534</guid>
       <pubDate>Thu, 25 Jun 2026 22:02:00 +0000</pubDate>
@@ -389,13 +396,6 @@
       <link>https://trumpstruth.org/statuses/39483</link>
       <guid>https://trumpstruth.org/statuses/39483</guid>
       <pubDate>Tue, 23 Jun 2026 20:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/39485</link>
-      <guid>https://trumpstruth.org/statuses/39485</guid>
-      <pubDate>Tue, 23 Jun 2026 21:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
