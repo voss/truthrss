@@ -3,8 +3,29 @@
   <channel>
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
-    <description>Truth Social Archive - Latest 52 Posts</description>
-    <lastBuildDate>Tue, 30 Jun 2026 23:59:52 -0000</lastBuildDate>
+    <description>Truth Social Archive - Latest 51 Posts</description>
+    <lastBuildDate>Wed, 01 Jul 2026 04:18:22 -0000</lastBuildDate>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/39652</link>
+      <guid>https://trumpstruth.org/statuses/39652</guid>
+      <pubDate>Tue, 30 Jun 2026 21:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/39653</link>
+      <guid>https://trumpstruth.org/statuses/39653</guid>
+      <pubDate>Tue, 30 Jun 2026 21:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/39654</link>
+      <guid>https://trumpstruth.org/statuses/39654</guid>
+      <pubDate>Tue, 30 Jun 2026 21:31:00 +0000</pubDate>
+    </item>
     <item>
       <description>I just spoke with Governor Brian Kemp, and informed him that the Great State of Georgia has been approved to be given $318.3 Million Dollars in its Disaster Declaration Request related to Hurricane Helene. I love the people of Georgia — My Great Honor. Thank you for your attention to this matter! President DONALD J. TRUMP</description>
       <title>I just spoke with Governor Brian Kemp, and informed him that the Great State ...</title>
@@ -340,34 +361,6 @@
       <link>https://trumpstruth.org/statuses/39602</link>
       <guid>https://trumpstruth.org/statuses/39602</guid>
       <pubDate>Sun, 28 Jun 2026 22:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/39603</link>
-      <guid>https://trumpstruth.org/statuses/39603</guid>
-      <pubDate>Sun, 28 Jun 2026 22:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/39604</link>
-      <guid>https://trumpstruth.org/statuses/39604</guid>
-      <pubDate>Sun, 28 Jun 2026 22:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/39605</link>
-      <guid>https://trumpstruth.org/statuses/39605</guid>
-      <pubDate>Sun, 28 Jun 2026 22:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://truthsocial.com/@realDonaldTrump/116830981377783021</link>
-      <guid>https://truthsocial.com/@realDonaldTrump/116830981377783021</guid>
-      <pubDate>Sun, 28 Jun 2026 22:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
