@@ -4,7 +4,14 @@
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
     <description>Truth Social Archive - Latest 54 Posts</description>
-    <lastBuildDate>Mon, 06 Jul 2026 15:58:13 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 18:10:49 -0000</lastBuildDate>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/39861</link>
+      <guid>https://trumpstruth.org/statuses/39861</guid>
+      <pubDate>Mon, 06 Jul 2026 12:03:00 +0000</pubDate>
+    </item>
     <item>
       <description>[Image Post]</description>
       <title>[Image Post]</title>
@@ -83,8 +90,8 @@
       <pubDate>Mon, 06 Jul 2026 11:08:00 +0000</pubDate>
     </item>
     <item>
-      <description/>
-      <title>Untitled Post</title>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
       <link>https://trumpstruth.org/statuses/39849</link>
       <guid>https://trumpstruth.org/statuses/39849</guid>
       <pubDate>Mon, 06 Jul 2026 11:07:00 +0000</pubDate>
@@ -375,13 +382,6 @@
       <link>https://trumpstruth.org/statuses/39783</link>
       <guid>https://trumpstruth.org/statuses/39783</guid>
       <pubDate>Sun, 05 Jul 2026 16:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>Dr. John G. Trump, of MIT! [Image Attached]</description>
-      <title>Dr. John G. Trump, of MIT! [Image Attached]</title>
-      <link>https://trumpstruth.org/statuses/39784</link>
-      <guid>https://trumpstruth.org/statuses/39784</guid>
-      <pubDate>Sun, 05 Jul 2026 16:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
