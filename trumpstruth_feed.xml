@@ -3,8 +3,36 @@
   <channel>
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
-    <description>Truth Social Archive - Latest 54 Posts</description>
-    <lastBuildDate>Sat, 11 Jul 2026 22:39:04 -0000</lastBuildDate>
+    <description>Truth Social Archive - Latest 55 Posts</description>
+    <lastBuildDate>Sat, 11 Jul 2026 23:44:54 -0000</lastBuildDate>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/39953</link>
+      <guid>https://trumpstruth.org/statuses/39953</guid>
+      <pubDate>Sat, 11 Jul 2026 18:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/39954</link>
+      <guid>https://trumpstruth.org/statuses/39954</guid>
+      <pubDate>Sat, 11 Jul 2026 18:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://truthsocial.com/@realDonaldTrump/116903805619949346</link>
+      <guid>https://truthsocial.com/@realDonaldTrump/116903805619949346</guid>
+      <pubDate>Sat, 11 Jul 2026 18:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/39955</link>
+      <guid>https://trumpstruth.org/statuses/39955</guid>
+      <pubDate>Sat, 11 Jul 2026 18:55:00 +0000</pubDate>
+    </item>
     <item>
       <description>[Image Post]</description>
       <title>[Image Post]</title>
@@ -360,27 +388,6 @@
       <title>[Image Post]</title>
       <link>https://trumpstruth.org/statuses/39902</link>
       <guid>https://trumpstruth.org/statuses/39902</guid>
-      <pubDate>Wed, 08 Jul 2026 18:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://trumpstruth.org/statuses/39903</link>
-      <guid>https://trumpstruth.org/statuses/39903</guid>
-      <pubDate>Wed, 08 Jul 2026 18:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/39904</link>
-      <guid>https://trumpstruth.org/statuses/39904</guid>
-      <pubDate>Wed, 08 Jul 2026 18:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://trumpstruth.org/statuses/39905</link>
-      <guid>https://trumpstruth.org/statuses/39905</guid>
       <pubDate>Wed, 08 Jul 2026 18:06:00 +0000</pubDate>
     </item>
   </channel>
