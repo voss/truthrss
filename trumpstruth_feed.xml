@@ -3,8 +3,22 @@
   <channel>
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
-    <description>Truth Social Archive - Latest 56 Posts</description>
-    <lastBuildDate>Fri, 17 Jul 2026 00:58:01 -0000</lastBuildDate>
+    <description>Truth Social Archive - Latest 53 Posts</description>
+    <lastBuildDate>Fri, 17 Jul 2026 03:59:52 -0000</lastBuildDate>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/40090</link>
+      <guid>https://trumpstruth.org/statuses/40090</guid>
+      <pubDate>Thu, 16 Jul 2026 21:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <description>https://www. whitehouse.gov/election-integr ity</description>
+      <title>https://www. whitehouse.gov/election-integr ity</title>
+      <link>https://trumpstruth.org/statuses/40089</link>
+      <guid>https://trumpstruth.org/statuses/40089</guid>
+      <pubDate>Thu, 16 Jul 2026 21:02:00 +0000</pubDate>
+    </item>
     <item>
       <description/>
       <title>Untitled Post</title>
@@ -122,7 +136,7 @@
       <title>https://www. instagram.com/reel/Da1tu08OPxD /?igsh=MWFmNXIxMzR3ZzBhbw==</title>
       <link>https://trumpstruth.org/statuses/40072</link>
       <guid>https://trumpstruth.org/statuses/40072</guid>
-      <pubDate>Fri, 17 Jul 2026 00:58:01 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 03:59:52 -0000</pubDate>
     </item>
     <item>
       <description/>
@@ -361,41 +375,6 @@
       <link>https://trumpstruth.org/statuses/40042</link>
       <guid>https://trumpstruth.org/statuses/40042</guid>
       <pubDate>Tue, 14 Jul 2026 11:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/40040</link>
-      <guid>https://trumpstruth.org/statuses/40040</guid>
-      <pubDate>Tue, 14 Jul 2026 11:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://truthsocial.com/@realDonaldTrump/116918963238538617</link>
-      <guid>https://truthsocial.com/@realDonaldTrump/116918963238538617</guid>
-      <pubDate>Tue, 14 Jul 2026 11:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://truthsocial.com/@realDonaldTrump/116918849750053085</link>
-      <guid>https://truthsocial.com/@realDonaldTrump/116918849750053085</guid>
-      <pubDate>Tue, 14 Jul 2026 10:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/40039</link>
-      <guid>https://trumpstruth.org/statuses/40039</guid>
-      <pubDate>Tue, 14 Jul 2026 11:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://truthsocial.com/@realDonaldTrump/116918849750053085</link>
-      <guid>https://truthsocial.com/@realDonaldTrump/116918849750053085</guid>
-      <pubDate>Tue, 14 Jul 2026 10:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
