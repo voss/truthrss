@@ -4,7 +4,14 @@
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
     <description>Truth Social Archive - Latest 52 Posts</description>
-    <lastBuildDate>Mon, 20 Jul 2026 11:19:24 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:22:55 -0000</lastBuildDate>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/40153</link>
+      <guid>https://trumpstruth.org/statuses/40153</guid>
+      <pubDate>Mon, 20 Jul 2026 09:03:00 +0000</pubDate>
+    </item>
     <item>
       <description>[Image Post]</description>
       <title>[Image Post]</title>
@@ -13,8 +20,8 @@
       <pubDate>Mon, 20 Jul 2026 06:45:00 +0000</pubDate>
     </item>
     <item>
-      <description/>
-      <title>Untitled Post</title>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
       <link>https://trumpstruth.org/statuses/40151</link>
       <guid>https://trumpstruth.org/statuses/40151</guid>
       <pubDate>Mon, 20 Jul 2026 06:38:00 +0000</pubDate>
@@ -361,13 +368,6 @@
       <link>https://trumpstruth.org/statuses/40104</link>
       <guid>https://trumpstruth.org/statuses/40104</guid>
       <pubDate>Fri, 17 Jul 2026 22:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>Newly declassified documents show that over a period of years starting during the 2020 election cycle, the People’s Republic of China carried out what is believed to be the largest compromise of election data in history — resulting in China’s illicit acquisition of 220 million U.S. voter files. That information includes names, addresses, phone numbers, political party preferences, and other sensitive data that would be needed to register to vote, and engage in other nefarious activities. This data loss presents an unprecedented election security nightmare. The intelligence even shows that China assigned a data exploitation unit specifically to this new project. https://www. whitehouse.gov/election-integr ity/</description>
-      <title>Newly declassified documents show that over a period of years starting during...</title>
-      <link>https://trumpstruth.org/statuses/40103</link>
-      <guid>https://trumpstruth.org/statuses/40103</guid>
-      <pubDate>Fri, 17 Jul 2026 22:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
