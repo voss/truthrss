@@ -4,7 +4,21 @@
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
     <description>Truth Social Archive - Latest 52 Posts</description>
-    <lastBuildDate>Mon, 20 Jul 2026 13:22:55 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:25:49 -0000</lastBuildDate>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/40155</link>
+      <guid>https://trumpstruth.org/statuses/40155</guid>
+      <pubDate>Mon, 20 Jul 2026 11:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/40154</link>
+      <guid>https://trumpstruth.org/statuses/40154</guid>
+      <pubDate>Mon, 20 Jul 2026 10:57:00 +0000</pubDate>
+    </item>
     <item>
       <description>[Image Post]</description>
       <title>[Image Post]</title>
@@ -211,13 +225,6 @@
     <item>
       <description>[Image Post]</description>
       <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/40126</link>
-      <guid>https://trumpstruth.org/statuses/40126</guid>
-      <pubDate>Sun, 19 Jul 2026 14:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
       <link>https://trumpstruth.org/statuses/40127</link>
       <guid>https://trumpstruth.org/statuses/40127</guid>
       <pubDate>Sun, 19 Jul 2026 14:14:00 +0000</pubDate>
@@ -361,13 +368,6 @@
       <link>https://trumpstruth.org/statuses/40105</link>
       <guid>https://trumpstruth.org/statuses/40105</guid>
       <pubDate>Fri, 17 Jul 2026 22:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>Ensuring the integrity of our elections is fundamental to preserving trust in American democracy. Following the 2020 presidential election, concerns about potential irregularities prompted detailed examinations of voting processes, data security, and registration practices across multiple states… Download documents and reports addressing key areas of election integrity, here: https://www. whitehouse.gov/election-integr ity/</description>
-      <title>Ensuring the integrity of our elections is fundamental to preserving trust in...</title>
-      <link>https://trumpstruth.org/statuses/40104</link>
-      <guid>https://trumpstruth.org/statuses/40104</guid>
-      <pubDate>Fri, 17 Jul 2026 22:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
