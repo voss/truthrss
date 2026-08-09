@@ -4,7 +4,21 @@
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
     <description>Truth Social Archive - Latest 54 Posts</description>
-    <lastBuildDate>Sat, 08 Aug 2026 23:52:12 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 01:03:54 -0000</lastBuildDate>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/40669</link>
+      <guid>https://trumpstruth.org/statuses/40669</guid>
+      <pubDate>Sat, 08 Aug 2026 20:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <description>Trump Aberdeen!</description>
+      <title>Trump Aberdeen!</title>
+      <link>https://trumpstruth.org/statuses/40668</link>
+      <guid>https://trumpstruth.org/statuses/40668</guid>
+      <pubDate>Sat, 08 Aug 2026 20:31:00 +0000</pubDate>
+    </item>
     <item>
       <description>Very true! President DJT</description>
       <title>Very true! President DJT</title>
@@ -368,20 +382,6 @@
       <link>https://trumpstruth.org/statuses/40616</link>
       <guid>https://trumpstruth.org/statuses/40616</guid>
       <pubDate>Thu, 06 Aug 2026 20:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/40613</link>
-      <guid>https://trumpstruth.org/statuses/40613</guid>
-      <pubDate>Thu, 06 Aug 2026 20:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/40614</link>
-      <guid>https://trumpstruth.org/statuses/40614</guid>
-      <pubDate>Thu, 06 Aug 2026 20:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
