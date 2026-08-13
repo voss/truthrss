@@ -4,7 +4,14 @@
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
     <description>Truth Social Archive - Latest 50 Posts</description>
-    <lastBuildDate>Thu, 13 Aug 2026 11:40:21 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:50:56 -0000</lastBuildDate>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/40787</link>
+      <guid>https://trumpstruth.org/statuses/40787</guid>
+      <pubDate>Thu, 13 Aug 2026 08:38:00 +0000</pubDate>
+    </item>
     <item>
       <description/>
       <title>Untitled Post</title>
@@ -346,13 +353,6 @@
       <title>[Image Post]</title>
       <link>https://trumpstruth.org/statuses/40737</link>
       <guid>https://trumpstruth.org/statuses/40737</guid>
-      <pubDate>Tue, 11 Aug 2026 21:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/40738</link>
-      <guid>https://trumpstruth.org/statuses/40738</guid>
       <pubDate>Tue, 11 Aug 2026 21:16:00 +0000</pubDate>
     </item>
   </channel>
