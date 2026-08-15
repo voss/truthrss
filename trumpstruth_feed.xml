@@ -3,8 +3,15 @@
   <channel>
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
-    <description>Truth Social Archive - Latest 52 Posts</description>
-    <lastBuildDate>Sat, 15 Aug 2026 16:13:54 -0000</lastBuildDate>
+    <description>Truth Social Archive - Latest 51 Posts</description>
+    <lastBuildDate>Sat, 15 Aug 2026 16:47:11 -0000</lastBuildDate>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/40877</link>
+      <guid>https://trumpstruth.org/statuses/40877</guid>
+      <pubDate>Sat, 15 Aug 2026 12:12:00 +0000</pubDate>
+    </item>
     <item>
       <description/>
       <title>Untitled Post</title>
@@ -354,20 +361,6 @@
       <link>https://trumpstruth.org/statuses/40828</link>
       <guid>https://trumpstruth.org/statuses/40828</guid>
       <pubDate>Fri, 14 Aug 2026 17:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>Thank you Russell — You have a big future ahead of you! [Image Attached]</description>
-      <title>Thank you Russell — You have a big future ahead of you! [Image Attached]</title>
-      <link>https://trumpstruth.org/statuses/40826</link>
-      <guid>https://trumpstruth.org/statuses/40826</guid>
-      <pubDate>Fri, 14 Aug 2026 16:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>SOUTH CAROLINA: GET OUT AND VOTE FOR DARLINE GRAHAM ON TUESDAY, AUGUST 25TH. DARLINE HAS MY COMPLETE AND TOTAL ENDORSEMENT — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP [Image Attached]</description>
-      <title>SOUTH CAROLINA: GET OUT AND VOTE FOR DARLINE GRAHAM ON TUESDAY, AUGUST 25TH. ...</title>
-      <link>https://truthsocial.com/@realDonaldTrump/117095859215373810</link>
-      <guid>https://truthsocial.com/@realDonaldTrump/117095859215373810</guid>
-      <pubDate>Fri, 14 Aug 2026 16:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
