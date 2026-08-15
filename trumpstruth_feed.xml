@@ -4,7 +4,35 @@
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
     <description>Truth Social Archive - Latest 51 Posts</description>
-    <lastBuildDate>Sat, 15 Aug 2026 20:13:22 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:45:09 -0000</lastBuildDate>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/40884</link>
+      <guid>https://trumpstruth.org/statuses/40884</guid>
+      <pubDate>Sat, 15 Aug 2026 16:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/40881</link>
+      <guid>https://trumpstruth.org/statuses/40881</guid>
+      <pubDate>Sat, 15 Aug 2026 16:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/40882</link>
+      <guid>https://trumpstruth.org/statuses/40882</guid>
+      <pubDate>Sat, 15 Aug 2026 16:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/40883</link>
+      <guid>https://trumpstruth.org/statuses/40883</guid>
+      <pubDate>Sat, 15 Aug 2026 16:22:00 +0000</pubDate>
+    </item>
     <item>
       <description/>
       <title>Untitled Post</title>
@@ -333,34 +361,6 @@
       <link>https://trumpstruth.org/statuses/40853</link>
       <guid>https://trumpstruth.org/statuses/40853</guid>
       <pubDate>Fri, 14 Aug 2026 21:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/40854</link>
-      <guid>https://trumpstruth.org/statuses/40854</guid>
-      <pubDate>Fri, 14 Aug 2026 21:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/40855</link>
-      <guid>https://trumpstruth.org/statuses/40855</guid>
-      <pubDate>Fri, 14 Aug 2026 21:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/40831</link>
-      <guid>https://trumpstruth.org/statuses/40831</guid>
-      <pubDate>Fri, 14 Aug 2026 21:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/40832</link>
-      <guid>https://trumpstruth.org/statuses/40832</guid>
-      <pubDate>Fri, 14 Aug 2026 21:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
