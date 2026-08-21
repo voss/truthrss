@@ -3,8 +3,15 @@
   <channel>
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
-    <description>Truth Social Archive - Latest 51 Posts</description>
-    <lastBuildDate>Fri, 21 Aug 2026 21:45:57 -0000</lastBuildDate>
+    <description>Truth Social Archive - Latest 50 Posts</description>
+    <lastBuildDate>Fri, 21 Aug 2026 22:14:49 -0000</lastBuildDate>
+    <item>
+      <description>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</description>
+      <title>I’m getting ready to land in the Great State of South Carolina where I’ll be ...</title>
+      <link>https://trumpstruth.org/statuses/41112</link>
+      <guid>https://trumpstruth.org/statuses/41112</guid>
+      <pubDate>Fri, 21 Aug 2026 18:07:00 +0000</pubDate>
+    </item>
     <item>
       <description>[Image Post]</description>
       <title>[Image Post]</title>
@@ -347,20 +354,6 @@
       <link>https://trumpstruth.org/statuses/41062</link>
       <guid>https://trumpstruth.org/statuses/41062</guid>
       <pubDate>Fri, 21 Aug 2026 12:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/41054</link>
-      <guid>https://trumpstruth.org/statuses/41054</guid>
-      <pubDate>Fri, 21 Aug 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://truthsocial.com/@realDonaldTrump/117134447318347925</link>
-      <guid>https://truthsocial.com/@realDonaldTrump/117134447318347925</guid>
-      <pubDate>Fri, 21 Aug 2026 12:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
