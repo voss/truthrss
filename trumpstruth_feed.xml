@@ -3,11 +3,32 @@
   <channel>
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
-    <description>Truth Social Archive - Latest 51 Posts</description>
-    <lastBuildDate>Sat, 22 Aug 2026 21:43:13 -0000</lastBuildDate>
+    <description>Truth Social Archive - Latest 52 Posts</description>
+    <lastBuildDate>Sat, 22 Aug 2026 22:12:49 -0000</lastBuildDate>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://trumpstruth.org/statuses/41125</link>
+      <guid>https://trumpstruth.org/statuses/41125</guid>
+      <pubDate>Sat, 22 Aug 2026 18:09:00 +0000</pubDate>
+    </item>
     <item>
       <description/>
       <title>Untitled Post</title>
+      <link>https://truthsocial.com/@realDonaldTrump/117141444139360871</link>
+      <guid>https://truthsocial.com/@realDonaldTrump/117141444139360871</guid>
+      <pubDate>Sat, 22 Aug 2026 18:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/41126</link>
+      <guid>https://trumpstruth.org/statuses/41126</guid>
+      <pubDate>Sat, 22 Aug 2026 18:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
       <link>https://trumpstruth.org/statuses/41124</link>
       <guid>https://trumpstruth.org/statuses/41124</guid>
       <pubDate>Sat, 22 Aug 2026 17:01:00 +0000</pubDate>
@@ -347,20 +368,6 @@
       <link>https://trumpstruth.org/statuses/41083</link>
       <guid>https://trumpstruth.org/statuses/41083</guid>
       <pubDate>Fri, 21 Aug 2026 13:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>Scott Bessent: Trump Fixed Biden's 'Mess' — Economy Is Rising: https://www. newsmax.com/newsmax-tv/scott-b essent-donald-trump-biden-administration/2026/08/14/id/1266109/</description>
-      <title>Scott Bessent: Trump Fixed Biden's 'Mess' — Economy Is Rising: https://www. n...</title>
-      <link>https://trumpstruth.org/statuses/41084</link>
-      <guid>https://trumpstruth.org/statuses/41084</guid>
-      <pubDate>Fri, 21 Aug 2026 13:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>Trump claims ‘total control’ of Strait of Hormuz as war drags on: https://www. washingtonexaminer.com/policy/ defense/4684362/trump-total-control-strait-of-hormuz-war-iran/</description>
-      <title>Trump claims ‘total control’ of Strait of Hormuz as war drags on: https://www...</title>
-      <link>https://trumpstruth.org/statuses/41085</link>
-      <guid>https://trumpstruth.org/statuses/41085</guid>
-      <pubDate>Fri, 21 Aug 2026 13:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
