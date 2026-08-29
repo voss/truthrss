@@ -4,7 +4,14 @@
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
     <description>Truth Social Archive - Latest 52 Posts</description>
-    <lastBuildDate>Sat, 29 Aug 2026 19:02:07 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 21:50:44 -0000</lastBuildDate>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://trumpstruth.org/statuses/41374</link>
+      <guid>https://trumpstruth.org/statuses/41374</guid>
+      <pubDate>Sat, 29 Aug 2026 17:36:00 +0000</pubDate>
+    </item>
     <item>
       <description>NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J. TRUMP [Image Attached]</description>
       <title>NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Step...</title>
@@ -361,13 +368,6 @@
       <link>https://trumpstruth.org/statuses/41325</link>
       <guid>https://trumpstruth.org/statuses/41325</guid>
       <pubDate>Fri, 28 Aug 2026 11:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://trumpstruth.org/statuses/41326</link>
-      <guid>https://trumpstruth.org/statuses/41326</guid>
-      <pubDate>Fri, 28 Aug 2026 11:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
