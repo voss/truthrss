@@ -4,7 +4,14 @@
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
     <description>Truth Social Archive - Latest 50 Posts</description>
-    <lastBuildDate>Sat, 19 Sep 2026 05:20:23 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:38:22 -0000</lastBuildDate>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://www.trumpstruth.org/statuses/41805</link>
+      <guid>https://www.trumpstruth.org/statuses/41805</guid>
+      <pubDate>Sat, 19 Sep 2026 01:06:00 +0000</pubDate>
+    </item>
     <item>
       <description>TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE: [Image Attached]</description>
       <title>TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE: [Image Attached]</title>
@@ -347,13 +354,6 @@
       <link>https://www.trumpstruth.org/statuses/41755</link>
       <guid>https://www.trumpstruth.org/statuses/41755</guid>
       <pubDate>Wed, 16 Sep 2026 22:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <description>[Image Post]</description>
-      <title>[Image Post]</title>
-      <link>https://www.trumpstruth.org/statuses/41756</link>
-      <guid>https://www.trumpstruth.org/statuses/41756</guid>
-      <pubDate>Wed, 16 Sep 2026 22:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
