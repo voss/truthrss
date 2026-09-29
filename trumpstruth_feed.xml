@@ -4,7 +4,21 @@
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
     <description>Truth Social Archive - Latest 50 Posts</description>
-    <lastBuildDate>Tue, 29 Sep 2026 11:58:09 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:42:48 -0000</lastBuildDate>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://www.trumpstruth.org/statuses/42022</link>
+      <guid>https://www.trumpstruth.org/statuses/42022</guid>
+      <pubDate>Tue, 29 Sep 2026 11:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <description>From a great journalist! President DJT</description>
+      <title>From a great journalist! President DJT</title>
+      <link>https://www.trumpstruth.org/statuses/42021</link>
+      <guid>https://www.trumpstruth.org/statuses/42021</guid>
+      <pubDate>Tue, 29 Sep 2026 08:30:00 +0000</pubDate>
+    </item>
     <item>
       <description/>
       <title>Untitled Post</title>
@@ -340,20 +354,6 @@
       <link>https://www.trumpstruth.org/statuses/41971</link>
       <guid>https://www.trumpstruth.org/statuses/41971</guid>
       <pubDate>Sat, 26 Sep 2026 18:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://www.trumpstruth.org/statuses/41972</link>
-      <guid>https://www.trumpstruth.org/statuses/41972</guid>
-      <pubDate>Sat, 26 Sep 2026 18:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://www.trumpstruth.org/statuses/41913</link>
-      <guid>https://www.trumpstruth.org/statuses/41913</guid>
-      <pubDate>Fri, 25 Sep 2026 23:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
