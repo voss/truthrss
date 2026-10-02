@@ -3,8 +3,29 @@
   <channel>
     <title>Trump's Truth RSS Feed</title>
     <link>https://trumpstruth.org</link>
-    <description>Truth Social Archive - Latest 54 Posts</description>
-    <lastBuildDate>Fri, 02 Oct 2026 16:04:25 -0000</lastBuildDate>
+    <description>Truth Social Archive - Latest 55 Posts</description>
+    <lastBuildDate>Fri, 02 Oct 2026 20:50:36 -0000</lastBuildDate>
+    <item>
+      <description>[Image Post]</description>
+      <title>[Image Post]</title>
+      <link>https://www.trumpstruth.org/statuses/42082</link>
+      <guid>https://www.trumpstruth.org/statuses/42082</guid>
+      <pubDate>Fri, 02 Oct 2026 14:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://truthsocial.com/@realDonaldTrump/117372766735299421</link>
+      <guid>https://truthsocial.com/@realDonaldTrump/117372766735299421</guid>
+      <pubDate>Fri, 02 Oct 2026 14:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <description/>
+      <title>Untitled Post</title>
+      <link>https://www.trumpstruth.org/statuses/42083</link>
+      <guid>https://www.trumpstruth.org/statuses/42083</guid>
+      <pubDate>Fri, 02 Oct 2026 14:38:00 +0000</pubDate>
+    </item>
     <item>
       <description>Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attention to this matter! President DJT</description>
       <title>Europe has just agreed to release a massive amount of their heavily stocked D...</title>
@@ -368,20 +389,6 @@
       <link>https://www.trumpstruth.org/statuses/42033</link>
       <guid>https://www.trumpstruth.org/statuses/42033</guid>
       <pubDate>Wed, 30 Sep 2026 19:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://www.trumpstruth.org/statuses/42034</link>
-      <guid>https://www.trumpstruth.org/statuses/42034</guid>
-      <pubDate>Wed, 30 Sep 2026 19:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <description/>
-      <title>Untitled Post</title>
-      <link>https://www.trumpstruth.org/statuses/42035</link>
-      <guid>https://www.trumpstruth.org/statuses/42035</guid>
-      <pubDate>Wed, 30 Sep 2026 19:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
